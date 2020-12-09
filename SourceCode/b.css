@@ -1,6 +1,6 @@
 
 body {
-          background-image: url('bg.jpg');
+          background-image: url('cold.jfif');
           background-repeat: no-repeat;
           background-attachment: fixed;
           background-size: cover;
@@ -46,18 +46,17 @@ header {
 }
 
 section {
-    background: rgba(245, 255, 245, 0.712); 
-    margin-left: 80px ;
-    margin-right: 80px;
-    border-radius: 25px;
+    background: rgba(245, 247, 255, 0.712); 
+    margin-left: 280px ;
+    margin-right: 280px;
+    border-radius: 125px;
   }
 
 footer {
-    background: rgba(247, 246, 190, 0.5); 
-    
-    margin-right: 40px;
-    margin-left: 40px;
-    border-radius: 5px;
+    background: rgba(190, 205, 247, 0.5); 
+    margin-right: 10%;
+    margin-left: 10%;
+    border-radius: 10%;
     
 }
 th {
